@@ -24,7 +24,7 @@ How to run:
 
 How it works:
 
-The program uses rand() function to generated the computer's move and compare it with the user's input using conditional logic to determine the winner
+The program uses rand() function to generate the computer's move and compare it with the user's input using conditional logic to determine the winner
 
 
 Future Improvements:
