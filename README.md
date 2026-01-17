@@ -21,6 +21,10 @@ How to run:
 
 -> Choose your move when prompted: stone, paper, scissors (Case Insensitive)
 
+(OR)
+
+-> Download and run the game.exe file
+
 
 How it works:
 
